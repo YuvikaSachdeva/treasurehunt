@@ -1,1 +1,1 @@
-# treasurehunt
+# TREASURE-HUNT-challenge
